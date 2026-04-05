@@ -21,7 +21,7 @@ from ...extras.ploting import plot_loss
 # from ...model import load_model, load_template
 from ...train.muti_scoring.trainer import CustomSeq2SeqTrainer
 from ...train.trainer_utils import create_modelcard_and_push
-from .metric import ComputeMetrics, compute_accuracy, eval_logit_processor
+from .metric import compute_accuracy, eval_logit_processor
 from ...train.muti_scoring.my_model import my_qwen
 from .callbacks import ExportVLLMOnSaveCallback
 from ...model import load_tokenizer
@@ -101,8 +101,6 @@ def run_ms(
     training_args.generation_max_length = training_args.generation_max_length or data_args.cutoff_len
     training_args.generation_num_beams = data_args.eval_num_beams or training_args.generation_num_beams
 
-    compute_metrics = ComputeMetrics(tokenizer)
-
     training_args.remove_unused_columns = False  # Force disable Trainer's auto-delete mechanism to ensure reg_labels safely reaches the packer.
     trainer = CustomSeq2SeqTrainer(
         model=model,
@@ -113,8 +111,8 @@ def run_ms(
         tokenizer=tokenizer,
         data_collator=data_collator,
         callbacks=callbacks,
-        compute_metrics=compute_metrics if predict_mode == 'predict_only' else compute_accuracy,
-        preprocess_logits_for_metrics=None if predict_mode else eval_logit_processor,
+        compute_metrics=compute_accuracy,
+        preprocess_logits_for_metrics=eval_logit_processor,
         #sequence_parallel_size=model_args.sequence_parallel_size,
         sequence_parallel_size=1,
         **dataset_module,
