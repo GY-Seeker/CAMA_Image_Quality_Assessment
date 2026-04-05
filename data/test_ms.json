@@ -1,0 +1,1406 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.4,
+      0.4,
+      1.0,
+      1.0,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.4,
+      0.6,
+      1.0,
+      0.8,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.2,
+      0.2,
+      0.8,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.6,
+      0.4,
+      1.0,
+      0.8,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.2,
+      0.4,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Step 1: Generate five photos of a rabbit with an Alice-in-Wonderland vibe, keeping the rabbit’s look consistent across all images.  \nStep 2: Generate six images featuring the rabbit together with Alice, with a clear sense of story."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Animals-1a-1, Animals-1a-2, Animals-1a-3, Animals-1a-4, Animals-1a-5, Animals-1a-6"
+    ],
+    "reg_labels": [
+      0.2,
+      0.2,
+      0.8,
+      0.8,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.8,
+      0.0,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.8,
+      0.2,
+      0.4,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The flowers are too blurry, the colors are monotonous, and they don’t look realistic."
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      0.6,
+      0.6,
+      0.2,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      1.0,
+      0.2,
+      0.4,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.8,
+      0.4,
+      0.6,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Change all the greenery on this building to flowers, without altering the building structure and streets."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "Build-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      1.0,
+      0.2,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.8,
+      0.2,
+      0.2,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.8,
+      0.2,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.4,
+      0.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. Replacement failed—the instruction wasn’t understood. The vase ended up tipped over, and the flowers are floating in the air, which doesn’t make sense."
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.0,
+      0.0,
+      0.2,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.4,
+      0.2,
+      0.0,
+      0.2,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Keep all the other background elements in the second image unchanged, and replace the vase in the second image with the exact same vase from the first image, without altering it."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-1a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.4,
+      0.0,
+      0.2,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The chair in Image 1 wasn’t replaced with the chair from Image 2 as instructed."
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.0,
+      0.6,
+      0.6,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.2,
+      0.4,
+      0.8,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.2,
+      0.6,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.2,
+      0.6,
+      0.4,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.0,
+      0.6,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Replace the chair in Image 1 with the chair from Image 2."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-2a-1"
+    ],
+    "reg_labels": [
+      0.4,
+      0.0,
+      0.4,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.6,
+      0.8,
+      1.0,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.4,
+      0.6,
+      1.0,
+      0.6,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      1.0,
+      0.6,
+      0.2,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.6,
+      0.4,
+      0.8,
+      0.6,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The wrinkles still weren’t fixed. Only one image was generated. The rug doesn’t blend well with the surrounding furnishings, so the scene looks awkward and out of place."
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.4,
+      0.4,
+      1.0,
+      0.4,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>1. Make the round rug a perfect circle. \n2. Remove the creases from the other rug. \n3. Then generate two separate product images: show each rug on its own, laid flat on the floor. Add matching home furnishings in a coordinated color scheme for each image so the scene feels inviting and makes people want to buy. Aspect ratio: 1:1."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "DailyObj-3a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.6,
+      0.8,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.8,
+      0.8,
+      1.0,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.8,
+      1.0,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.6,
+      0.8,
+      0.8,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.8,
+      1.0,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.6,
+      0.8,
+      0.8,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Modify this image to depict a dusk/nighttime scene"
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The size of the mountain in the background has been incorrectly modified."
+      }
+    ],
+    "images": [
+      "NaturalLandscapes-1a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.6,
+      0.6,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      1.0,
+      0.6,
+      0.8,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The instructions weren’t carried out as requested in the query; the execution was incorrect."
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.8,
+      0.6,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.6,
+      0.8,
+      0.6,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.8,
+      0.6,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      0.8,
+      1.0,
+      0.8,
+      1.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please put the outfit from Image 2 and the hat from Image 3 onto the model in Image 1. Pay close attention to lighting and details. Do not change the model’s pose, the rest of the background, or any product details. The final image should be high-resolution, high-quality, and suitable for an e-commerce scenario."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-1a-1"
+    ],
+    "reg_labels": [
+      0.0,
+      1.0,
+      1.0,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.4,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The product subject doesn’t match what was provided in the query; it only changed the model’s original outfit to green."
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      0.6,
+      0.8,
+      0.8,
+      0.8,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. The outfit in the mirror still hasn’t changed—it’s still the original product."
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      0.2,
+      0.4,
+      1.0,
+      0.4,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      0.8,
+      0.2,
+      0.8,
+      0.8,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      1.0,
+      0.4,
+      0.6,
+      0.6,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Please composite the product subject from Image 2 onto the model in Image 1. Create one model-and-product showcase image. Make sure the product subject from Image 2 keeps a proper, undistorted size (not too large or too small) and stays consistent with Image 2. Keep the model consistent with Image 1, and ensure the final result is stable and cohesive."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "People-2a-1"
+    ],
+    "reg_labels": [
+      0.6,
+      0.4,
+      0.4,
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. Generation failed—one image is missing. Also, the charging cable in Image 1 doesn’t look realistic."
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.6,
+      1.0,
+      0.6,
+      0.6,
+      0.2
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.4,
+      0.8,
+      0.8,
+      1.0,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.2,
+      1.0,
+      0.6,
+      0.4,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.6,
+      1.0,
+      0.6,
+      0.4,
+      0.4
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.4,
+      0.6
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert image evaluation assistant. Your task is to assess the quality of generated images based on user instructions. Evaluate the output image across five dimensions: Consistency (C), Structure (S), Detail (D), Aesthetics (A), and Prompt Following (P). Analyze whether the generated image aligns with the user's request and provide objective quality assessments."
+      },
+      {
+        "role": "user",
+        "content": "<image>Generate six scene images that highlight practical in-car product use—for example, a multi-scenario collage featuring a car phone mount and a car charger. Show an extremely clean, dust-free dashboard (implying a cleaning product was used). The phone should be held securely on a vent-mounted holder, with the screen displaying navigation, and connected to a premium, glowing charging cable (to showcase the charger). Use a 21:9 aspect ratio. Overall mood: dusk or nighttime city lights, creating an upscale, urban professional driving vibe."
+      },
+      {
+        "role": "assistant",
+        "content": "Generated output. "
+      }
+    ],
+    "images": [
+      "VehiclesObj-1a-1, VehiclesObj-1a-2, VehiclesObj-1a-3, VehiclesObj-1a-4, VehiclesObj-1a-5"
+    ],
+    "reg_labels": [
+      0.6,
+      0.8,
+      0.8,
+      0.6,
+      0.2
+    ]
+  }
+]
